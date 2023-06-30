@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nastya/static/css/main.f473e64b.css",
+    "main.css": "/nastya/static/css/main.4dc03198.css",
     "main.js": "/nastya/static/js/main.dd70f95a.js",
     "static/js/787.31046858.chunk.js": "/nastya/static/js/787.31046858.chunk.js",
     "static/media/project_rpg.png": "/nastya/static/media/project_rpg.096fd79f7dfc38fc3046.png",
@@ -14,12 +14,12 @@
     "static/media/blog3.jpg": "/nastya/static/media/blog3.a5a7760f557b5ea910e7.jpg",
     "static/media/blog2.jpg": "/nastya/static/media/blog2.21976fdfabdc664dac57.jpg",
     "index.html": "/nastya/index.html",
-    "main.f473e64b.css.map": "/nastya/static/css/main.f473e64b.css.map",
+    "main.4dc03198.css.map": "/nastya/static/css/main.4dc03198.css.map",
     "main.dd70f95a.js.map": "/nastya/static/js/main.dd70f95a.js.map",
     "787.31046858.chunk.js.map": "/nastya/static/js/787.31046858.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f473e64b.css",
+    "static/css/main.4dc03198.css",
     "static/js/main.dd70f95a.js"
   ]
 }
